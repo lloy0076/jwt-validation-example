@@ -9,7 +9,7 @@ The purpose of this package is to test a JWT passed using the bearer authorisati
 1. Checkout this repository;
 2. Install its dependency using `composer install --prefer-dist`
 3. You may run this using the inbuilt PHP serer `php -S localhost:8000`
-4. Obtain the `public key` for the JWT you will test and replace the file `oauth_public.key`
+4. Obtain the `public key` for the JWT you will test and replace the file `oauth-public.key`
 
 Use a different port if port 8000 is already in use.
 
