@@ -1,0 +1,15 @@
+{
+    "name": "david_000/jwtverifytest",
+    "description": "Just a small test rig to test an incoming JWT bearer authorisation.",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "David Lloyd",
+            "email": "lloy0076@adam.com.au"
+        }
+    ],
+    "require": {
+        "lcobucci/jwt": "^3.2"
+    }
+}
